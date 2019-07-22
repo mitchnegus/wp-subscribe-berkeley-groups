@@ -4,7 +4,7 @@
  * Version: 1.0
  * Plugin URI: https://github.com/mitchnegus/wp-subscribe-berkeley-groups
  * Description: Widget for subscribing to Berkeley Google Groups.
- * Author: Mitch Negus
+ * Author: Mitch Negus, Seravo Oy 
  * Author URI: www.mitchnegus.com
  * Text Domain: subscribe-berkeley-groups
  * Domain Path: /languages/
@@ -16,8 +16,8 @@
  *
  * wp-subscribe-berkeley-groups - WordPress Plugin/Widget for subscribing to 
  * Berkeley Google Groups.
- * Copyright (C) 2018-2019 Mitch Negus
- * (adapated from Seravo Oy <https://seravo.com>)
+ * Copyright (C) 2017 Seravo Oy <https://seravo.com>
+ * Copyright (C) 2018, 2019 Mitch Negus: Berkeley modifications
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

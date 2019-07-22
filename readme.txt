@@ -1,6 +1,6 @@
 === Subscribe Google Groups ===
-Contributors: Mitch Negus (mitchnegus)
-Donate link: 
+Contributors: Mitch Negus (mitchnegus), ypcs
+Donate link: https://seravo.com
 Tags: berkeley, google groups, email, subscribe, widget
 Requires at least: 4.9
 Tested up to: 4.9.5
@@ -13,9 +13,9 @@ Add widget(s) for subscribing to admin-specified Google Groups
 
 == Description ==
 
-This plugin modifies the widget 'Subscribe Google Groups', which allows visitors to sign up to admin-specified Google Group. This modification is designed for UC Berkeley Google Groups hosted at `lists.berkeley.edu`. 
+This plugin slightly modifies the widget 'Subscribe Google Groups' (written by Seravo), which allows visitors to sign up to admin-specified Google Group. This modification is designed for UC Berkeley Google Groups hosted at `lists.berkeley.edu`. 
 
-After a user has entered her e-mail address and submits the form, the plugin (tries to) send an e-mail to `GROUPNAME+subscribe@lists.berkeley.edu`. Afterwards, the Berkeley Google Groups sends a confirmation link to the user, and the user is added to the group after clicking the link. 
+After a user has entered their e-mail address and submits the form, the plugin (tries to) send an e-mail to `GROUPNAME+subscribe@lists.berkeley.edu`. Afterwards, the Berkeley Google Groups sends a confirmation link to the user, and the user is added to the group after clicking the link. 
 
 Note: If user domain has strict SPF/DKIM policies for e-mail handling, @googlegroups.com might reject their subscription request. In this case user needs to subscribe manually (by sending mail from her e-mail client or by visiting group page.)
 

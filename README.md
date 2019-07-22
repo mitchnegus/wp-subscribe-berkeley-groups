@@ -4,7 +4,7 @@
 
 _Original README preserved below_
 
-This widget is designed to allow a user to add themselves to a Google Group via the Wordpress site sidebar. In this adaptation of the original (produced by Seravo) the user may subscribe to a specific email hosted on `lists.berkeley.edu` rather than `googlegroups.com`. 
+This widget is designed to allow a user to add themselves to a Google Group via the Wordpress site sidebar. The plugin is a minor adaptation of the original [wp-subscribe-google-groups](https://github.com/Seravo/wp-subscribe-google-groups)plugin (produced by Seravo), which allows a user to subscribe to a specific email hosted on `lists.berkeley.edu` rather than `googlegroups.com`. 
 
 Otherwise, functionality is the same. A user provides the email where they wish to receive group messages. The plugin then sends an email to `GROUPNAME+subscribe@lists.berkeley.edu`, which should then return a confirmation email to the user allowing them to confirm the transaction. 
 
