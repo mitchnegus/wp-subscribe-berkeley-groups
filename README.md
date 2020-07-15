@@ -1,4 +1,4 @@
-# # Wordpress Subscribe Google Groups -plugin
+# Wordpress Subscribe Google Groups -plugin
 
 ## UC Berkeley Modification
 
